@@ -1,0 +1,36 @@
+.header {
+  height: 80px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+.wrapper {
+  display: flex;
+}
+
+.header__title {
+  font-size: 24px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.header__cartblock {
+  justify-content: flex-end;
+}
+
+.cartblock__icon {
+  position: relative;
+  cursor: pointer;
+}
+.cartblock__price {
+  font-size: 18px;
+  font-weight: bold;
+  position: relative;
+  bottom: 3px;
+  margin-left: 15px;
+}
+.cartblock {
+  position: relative;
+  align-items: center;
+}

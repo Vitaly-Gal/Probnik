@@ -1,0 +1,13 @@
+.home__page {
+  margin: 0px auto;
+  margin-top: 150px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.container {
+  display: flex;
+}
+
+.item {
+  flex: 0 1 auto;
+}

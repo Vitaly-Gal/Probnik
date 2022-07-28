@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  float: right;
+  bottom: -5px;
+}
+
+.price {
+  font-size: 15px;
+  font-weight: bold;
+  position: relative;
+  bottom: -2px;
+}
